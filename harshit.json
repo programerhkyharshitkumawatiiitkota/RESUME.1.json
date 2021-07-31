@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "HARSHIT KUMAWAT",
+		"label": "Student",
+		"picture": "https://pbs.twimg.com/profile_images/1421397862223466499/YnH_kBzD_400x400.jpg",
+		"email": "2020kucp1130@iiitkota.ac.in",
+		"phone": "9667373669",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "Myself Harshit kumawat I am Study from IIITKOTA B-Tech:CSE ,2nd year student",
+		"location": {
+			"address": "behra wali dhani",
+			"postalCode": "332404",
+			"city": "reengus",
+			"countryCode": "India",
+			"region": "rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "HARSHKUMAWAT96",
+				"url": "https://twitter.com/HARSHKUMAWAT96"
+			},
+			{
+				"network": "Github",
+				"username": "programerhkyharshitkumawatiiitkota",
+				"url": "https://github.com/programerhkyharshitkumawatiiitkota"
+			},
+			{
+				"network": "linkedin",
+				"username": "Harshit kumawat",
+				"url": "https://www.linkedin.com/in/harshit-kumawat-4a280020b/"
+			},
+			{
+				"network": "Instagram",
+				"username": "harshitkumawat96",
+				"url": "https://www.instagram.com/harshitkumawat96/"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08 //Date",
+		"endDate": "----",
+		"gpa": "1st semester=7.7",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
